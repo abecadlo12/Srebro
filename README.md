@@ -147,6 +147,7 @@
         - bransoletka <br>
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia <br>
+    </details>
         
   </p>
    <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
