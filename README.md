@@ -131,7 +131,7 @@
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
+     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 15% zniżki!</p>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
    <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',"> Przykładowe oferty walentynkowe </p>
@@ -157,7 +157,7 @@
 <img src="https://github.com/user-attachments/assets/773a2634-aea9-4c75-ae92-e55e904b8035" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">79 zł</s> ➝ 
-    <span style="color: #008000;">71 zł</span>
+    <span style="color: #008000;">67 zł</span>
 
 
 </p>
@@ -175,7 +175,7 @@
 <img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">260 zł</s> ➝ 
-    <span style="color: #008000;">234 zł</span>
+    <span style="color: #008000;">221 zł</span>
 
 
 </p>
@@ -195,7 +195,7 @@
 <img src="https://github.com/user-attachments/assets/73255cae-edd9-47a1-b150-8b33474e3b0b" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">69 zł</s> ➝ 
-    <span style="color: #008000;">62 zł</span>
+    <span style="color: #008000;">59 zł</span>
 
 
 </p>
@@ -214,7 +214,7 @@
 <img src="https://github.com/user-attachments/assets/66c514b4-b417-4fc4-a666-d24542ea57ed" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">289 zł</s> ➝ 
-    <span style="color: #008000;">260 zł</span>
+    <span style="color: #008000;">246 zł</span>
 
 
 </p>
