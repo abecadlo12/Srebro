@@ -177,13 +177,13 @@
         
         
     
-
+</p>
 </details>
 <img src="https://github.com/user-attachments/assets/e0ba80a8-c553-4686-8386-64972c84297e" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">69 zł</s> ➝ 
     <span style="color: #008000;">62 zł</span>
-</p>
+
 
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
@@ -202,7 +202,7 @@
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">289 zł</s> ➝ 
     <span style="color: #008000;">260 zł</span>
-</p>
+
 
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
@@ -215,5 +215,6 @@
         - Kamień: brak <br>
         
         
-    
+ </p>   
 </details>
+</html>
