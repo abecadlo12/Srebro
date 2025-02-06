@@ -123,7 +123,7 @@
 <body>
      <div class="valentine-text">Walentynki</div>
    <p style="margin-top: 0px; font-size: 24px; font-weight: bold;">Kwiaty więdną, czekoladki znikają.</p>
-<hr style="width: 60%; border: 1px dashed black; margin: 30px auto;">
+<hr style="width: 60%; border-top: 1px solid black; margin: 30px auto;">
     <div class="text-group" style="margin-bottom: 40px;">
         <p style="font-size: 24px; font-weight: bold; margin-bottom: 5px;">BIŻUTERIA</p>
         <p style="font-size: 24px; font-weight: bold; margin-top: 0;">Prezent na dziś, skarb na zawsze.</p>
