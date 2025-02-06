@@ -122,7 +122,7 @@
 </head>
 <body>
      <div class="valentine-text">Walentynki</div>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;">Kwiaty więdną, czekoladki znikają.</p>
+    <p style="margin-top: 5px; font-size: 24px; font-weight: bold;">Kwiaty więdną, czekoladki znikają.</p>
     <div class="static-text">---------------</div>
     <div class="text-group" style="margin-bottom: 40px;">
         <p style="font-size: 24px; font-weight: bold; margin-bottom: 5px;">BIŻUTERIA</p>
