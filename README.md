@@ -188,7 +188,7 @@ Prezent na dziś, skarb na zawsze.</p>
     
 </p>
 </details>
-<img src="https://github.com/user-attachments/assets/e0ba80a8-c553-4686-8386-64972c84297e" alt="zdjęcie oferty">
+<img src="https://github.com/user-attachments/assets/73255cae-edd9-47a1-b150-8b33474e3b0b" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">69 zł</s> ➝ 
     <span style="color: #008000;">62 zł</span>
