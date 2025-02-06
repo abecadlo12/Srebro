@@ -83,6 +83,13 @@
             font-weight: bold;
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
         }
+           }
+        .text-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
         .text-controls {
             margin-top: 20px;
         }
@@ -115,8 +122,10 @@
      <div class="valentine-text">Walentynki</div>
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikają.</p>
     <div class="static-text"> --------------- </div>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">BIŻUTERIA </p>
-    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Prezent na dziś, skarb na zawsze.</p>
+    <div class="text-group">
+        <p style="font-size: 24px; font-weight: bold;">BIŻUTERIA</p>
+        <p style="font-size: 24px; font-weight: bold;">Prezent na dziś, skarb na zawsze.</p>
+    </div>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
