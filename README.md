@@ -1,4 +1,4 @@
-#
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -128,9 +128,7 @@
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">66 zł</s> ➝ 
     <span style="color: #008000;">59 zł</span>
-
-
-</p>
+ </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
     <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
          Informacje o produkcie
@@ -146,7 +144,7 @@
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">79 zł</s> ➝ 
     <span style="color: #008000;">71 zł</span>
-</p>
+
 
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
@@ -164,7 +162,7 @@
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">260 zł</s> ➝ 
     <span style="color: #008000;">234 zł</span>
-</p>
+
 
 </p>
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
