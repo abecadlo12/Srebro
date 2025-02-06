@@ -181,7 +181,7 @@
     <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
          Informacje o produkcie
     </summary>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">
+    <p style="margin-top: 20px; font-size: 18px; color: #333;">
         - komplet: Kolczyki + Zawieszka <br>
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia <br>
