@@ -123,8 +123,8 @@
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikają.</p>
     <div class="static-text"> --------------- </div>
     <div class="text-group">
-        <p style="font-size: 24px; font-weight: bold;">BIŻUTERIA</p>
-        <p style="font-size: 24px; font-weight: bold;">Prezent na dziś, skarb na zawsze.</p>
+        <p style="font-size: 24px; font-weight: bold;">BIŻUTERIA   
+Prezent na dziś, skarb na zawsze.</p>
     </div>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
