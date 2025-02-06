@@ -216,4 +216,7 @@
         
  </p>   
 </details>
+ <div class="static-text">Oferta ważna do 15.02.2025 </div>
+ <div class="static-text">Zapraszamy! </div>
+ </body>
 </html>
