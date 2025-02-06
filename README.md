@@ -137,6 +137,11 @@
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',"> Przykładowe oferty walentynkowe </p>
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">(dla pracowników Thoni Alutec): </p>
     <img src="https://github.com/user-attachments/assets/d923b0f0-10fd-4a62-adfa-ea728b4b59da" alt="zdjęcie oferty">
+     </p>
+   <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
+    <s style="color: #b30000;">66 zł</s> ➝ 
+    <span style="color: #008000;">59 zł</span>
+        </p>
 
 
 <details style="margin-top: 15px; font-size: 20px; text-align: center;">
@@ -147,13 +152,7 @@
         - bransoletka <br>
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia <br>
-    </details>
-        
-  </p>
-   <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">66 zł</s> ➝ 
-    <span style="color: #008000;">59 zł</span>
-        </p>
+  
 </details>
 <img src="https://github.com/user-attachments/assets/773a2634-aea9-4c75-ae92-e55e904b8035" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
