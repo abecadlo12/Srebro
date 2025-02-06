@@ -115,8 +115,8 @@
      <div class="valentine-text">Walentynki</div>
     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Kwiaty więdną, czekoladki znikają.</p>
     <div class="static-text"> --------------- </div>
-    <div class="static-text"> BIŻUTERIA </div>
-    <div class="static-text"> Prezent na dziś, skarb na zawsze. </div>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">BIŻUTERIA </p>
+    <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Prezent na dziś, skarb na zawsze.</p>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
     <div class="side-images left-side"></div>
     <div class="side-images right-side"></div>
