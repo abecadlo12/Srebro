@@ -1,4 +1,4 @@
-# Srebro
+
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -158,7 +158,7 @@
         - Materiał: Srebro próby 925 <br>
         - Kamień: Cyrkonia + Szafir <br>
 
-</p>
+
 </details>
 <img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
@@ -178,7 +178,7 @@
         
         
     
-</p>
+
 </details>
 <img src="https://github.com/user-attachments/assets/e0ba80a8-c553-4686-8386-64972c84297e" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
@@ -197,7 +197,7 @@
         - Kamień: Cyrkonia <br>
         
         
-    </p>
+    
 </details>
 <img src="https://github.com/user-attachments/assets/66c514b4-b417-4fc4-a666-d24542ea57ed" alt="zdjęcie oferty">
  <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
@@ -216,5 +216,5 @@
         - Kamień: brak <br>
         
         
-    </p>
+    
 </details>
