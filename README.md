@@ -137,7 +137,6 @@
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',"> Przykładowe oferty walentynkowe </p>
      <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">(dla pracowników Thoni Alutec): </p>
     <img src="https://github.com/user-attachments/assets/d923b0f0-10fd-4a62-adfa-ea728b4b59da" alt="zdjęcie oferty">
-     </p>
    <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
     <s style="color: #b30000;">66 zł</s> ➝ 
     <span style="color: #008000;">59 zł</span>
@@ -231,7 +230,7 @@
         
  </p>   
 </details>
- <div class="static-text">Oferta ważna do 15.02.2025 </div>
- <div class="static-text">Zapraszamy! </div>
+  <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Oferta ważna do 15.02.2025 </p>
+ <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Zapraszamy! </p>
  </body>
 </html>
