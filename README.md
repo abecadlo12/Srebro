@@ -3,25 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> name= "Walentynki" </title>
+    <title>Walentynki</title>
     <style>
-        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #fff;
-            margin: 0;
-        }
-        .valentine-text {
-            font-family: 'Pacifico',cursive;
-            font-size: 80px;
-            color: #b30000;
-            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-        }
-        
+        @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap&family=Roboto:wght@400;700&display=swap');
+    
         body {
             display: flex;
             flex-direction: column;
@@ -34,66 +19,56 @@
             background-size: cover;
             background-position: center;
             text-align: center;
-            font-family: 'Pacificio';
+            font-family: 'Pacifico', cursive;
             padding-top: 20px;
         }
-        .side-images {
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            width: 150px;
-            background-size: contain;
-            background-repeat: no-repeat;
+        .valentine-text {
+            font-size: 80px;
+            color: #b30000;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            margin-bottom: 10px;
         }
-        .left-side {
-            left: 0;
-            background-image: url('serduszka-lewe.png'); /* Obraz serduszek po lewej stronie */
+        .separator {
+            width: 60%;
+            border-top: 2px solid black;
+            margin: 20px auto;
         }
-        .right-side {
-            right: 0;
-            background-image: url('serduszka-prawe.png'); /* Obraz serduszek po prawej stronie */
+        .text-group {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            line-height: 1.2;
+            margin-bottom: 50px;
+        }
+        .text-group p {
+            margin: 5px 0;
+            font-size: 24px;
+            font-weight: bold;
         }
         img {
-            max-width: 90%;
+            max-width: 80%;
             height: auto;
             border-radius: 10px;
-            border: 5px solid #b30000; /* Czerwona ramka */
+            border: 5px solid #b30000;
+            margin-bottom: 20px;
         }
         a {
-            display: block;
+            display: inline-block;
             margin-top: 20px;
             font-size: 24px;
             text-decoration: none;
             color: #b30000;
             font-weight: bold;
             background: #fff0f0;
-            padding: 10px 20px;
-            border-radius: 15px;
+            padding: 12px 25px;
+            border-radius: 20px;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease-in-out;
         }
         a:hover {
             background: #ff6f61;
             color: white;
-        }
-        .static-text {
-            margin-top: 20px;
-            font-size: 24px;
-            color: black;
-            font-family: 'Pacificio';
-            font-weight: bold;
-            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-        }
-           
-        
-        .text-group {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            line-height: 1.1; /* Zmniejszony odstęp między liniami */
-        }
-        .text-controls {
-            margin-top: 20px;
         }
         .phone-number {
             margin-top: 20px;
@@ -102,135 +77,38 @@
             color: #b30000;
             text-decoration: none;
             background: #fff0f0;
-            padding: 10px 20px;
-            border-radius: 15px;
+            padding: 12px 25px;
+            border-radius: 20px;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease-in-out;
         }
         .phone-number:hover {
             background: #ff6f61;
             color: white;
         }
-        .title {
-            margin-top: 35px;
-            font-size: 90px;
-            color: #b30000;
-            font-family: 'Pacifico';
-            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
-            margin-top: 60px; /* Dodatkowe przesunięcie tytułu niżej */
+        .static-text {
+            font-size: 24px;
+            color: black;
+            font-family: 'Roboto', sans-serif;
+            font-weight: bold;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+            margin-top: 15px;
         }
     </style>
 </head>
 <body>
-     <div class="valentine-text">Walentynki</div>
-   <p style="margin-top: 0px; font-size: 24px; font-weight: bold;">Kwiaty więdną, czekoladki znikają.</p>
-<hr style="width: 60%; border-top: 1px solid black; margin: 30px auto;">
-    <div class="text-group" style="margin-bottom: 40px;">
-        <p style="font-size: 24px; font-weight: bold; margin-bottom: 5px;">BIŻUTERIA</p>
-        <p style="font-size: 24px; font-weight: bold; margin-top: 0;">Prezent na dziś, skarb na zawsze.</p>
+    <div class="valentine-text">Walentynki</div>
+    <p style="margin: 0; font-size: 24px; font-weight: bold;">Kwiaty więdną, czekoladki znikają.</p>
+    <div class="separator"></div>
+    <div class="text-group">
+        <p>BIŻUTERIA</p>
+        <p>Prezent na dziś, skarb na zawsze.</p>
     </div>
     <img src="https://github.com/user-attachments/assets/1f40c95c-7f81-4e32-b641-828dd979f8d6" alt="Zdjęcie sklepu">
-    <div class="side-images left-side"></div>
-    <div class="side-images right-side"></div>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 15% zniżki!</p>
+    <p style="font-size: 24px; font-weight: bold;">Z hasłem <span style="color: #b30000;">Thoni-Alutec</span> 10% zniżki!</p>
     <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x473d2da806df8d8d:0xb6c8bb17d8b92786?sa=X&ved=1t:8290&ictx=111" target="_blank">Zobacz lokalizację sklepu</a>
-   <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',"> Przykładowe oferty walentynkowe </p>
-     <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">(dla pracowników Thoni Alutec): </p>
-    <img src="https://github.com/user-attachments/assets/d923b0f0-10fd-4a62-adfa-ea728b4b59da" alt="zdjęcie oferty">
-   <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">66 zł</s> ➝ 
-    <span style="color: #008000;">59 zł</span>
-        </p>
-
-
-<details style="margin-top: 15px; font-size: 20px; text-align: center;">
-    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-         Informacje o produkcie
-    </summary>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - bransoletka <br>
-        - Materiał: Srebro próby 925 <br>
-        - Kamień: Cyrkonia <br>
-    </p>
-  
-</details>
-<img src="https://github.com/user-attachments/assets/773a2634-aea9-4c75-ae92-e55e904b8035" alt="zdjęcie oferty">
- <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">79 zł</s> ➝ 
-    <span style="color: #008000;">67 zł</span>
-
-
-</p>
-<details style="margin-top: 15px; font-size: 20px; text-align: center;">
-    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-         Informacje o produkcie
-    </summary>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - naszyjnik <br>
-        - Materiał: Srebro próby 925 <br>
-        - Kamień: Cyrkonia + Szafir <br>
-
-</p>
-</details>
-<img src="https://github.com/user-attachments/assets/739f549b-b339-47de-84d8-1917eab39c6d" alt="zdjęcie oferty">
- <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">260 zł</s> ➝ 
-    <span style="color: #008000;">221 zł</span>
-
-
-</p>
-<details style="margin-top: 15px; font-size: 20px; text-align: center;">
-    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-         Informacje o produkcie
-    </summary>
-    <p style="margin-top: 20px; font-size: 18px; color: #333;">
-        - komplet: Kolczyki + Zawieszka <br>
-        - Materiał: Srebro próby 925 <br>
-        - Kamień: Cyrkonia <br>
-        
-        
-    
-</p>
-</details>
-<img src="https://github.com/user-attachments/assets/73255cae-edd9-47a1-b150-8b33474e3b0b" alt="zdjęcie oferty">
- <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">69 zł</s> ➝ 
-    <span style="color: #008000;">59 zł</span>
-
-
-</p>
-<details style="margin-top: 15px; font-size: 20px; text-align: center;">
-    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-         Informacje o produkcie
-    </summary>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - komplet: Kolczyki <br>
-        - Materiał: Srebro próby 925 <br>
-        - Kamień: Cyrkonia <br>
-        
-        
-</p>
-</details>
-<img src="https://github.com/user-attachments/assets/66c514b4-b417-4fc4-a666-d24542ea57ed" alt="zdjęcie oferty">
- <p style="margin-top: 10px; font-size: 22px; font-weight: bold; text-align: center;">
-    <s style="color: #b30000;">289 zł</s> ➝ 
-    <span style="color: #008000;">246 zł</span>
-
-
-</p>
-<details style="margin-top: 15px; font-size: 20px; text-align: center;">
-    <summary style="cursor: pointer; font-weight: bold; color: #b30000;">
-         Informacje o produkcie
-    </summary>
-    <p style="margin-top: 10px; font-size: 18px; color: #333;">
-        - komplet: Bransoletka  <br>
-        - Materiał: Srebro rodowane próby 925 <br>
-        - Kamień: brak <br>
-        
-        
- </p>   
-</details>
-  <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Oferta ważna do 15.02.2025 </p>
- <p style="margin-top: 20px; font-size: 24px; font-weight: bold;font-family: 'Pacificio',">Zapraszamy! </p>
- </body>
+    <a href="tel:+48509512989" class="phone-number">📞 Telefon lub Whatsapp: +48 509 512 989 </a>
+    <div class="static-text">Oferta ważna do 15.02.2025</div>
+    <div class="static-text">Zapraszamy!</div>
+</body>
 </html>
